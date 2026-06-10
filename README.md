@@ -1,0 +1,1 @@
+This project focuses on analyzing a digital music store database using SQL. The objective was to solve real-world business problems by writing SQL queries to extract meaningful insights related to customers, sales, artists, genres, invoices, and employee performance.
